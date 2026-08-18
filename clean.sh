@@ -1,0 +1,1 @@
+find . -type f -name "*.png" -not -path "./venv/*" -delete
