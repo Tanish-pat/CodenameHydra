@@ -6,3 +6,5 @@ scipy
 scikit-learn
 jupyter
 notebook
+datasets
+huggingface_hub
